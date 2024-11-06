@@ -21,7 +21,7 @@ This program generates unique membership IDs based on user inputs such as countr
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/membership-id-generator.git
+   git clone https://github.com/AdedigbaOluwad1/membership_id_generator.git
    ```
 2. Navigate to the project folder:
    ```
